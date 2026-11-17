@@ -57,7 +57,7 @@ To explore 17 seasons of IPL data and answer questions such as: How has scoring 
 
 ## Dataset
 
-Two CSV files are included in the `data/` folder:
+The data was sourced from [Kaggle](https://www.kaggle.com/). Two CSV files are included in the `data/` folder:
 
 - `matches.csv`: one row per match (season, city, venue, teams, toss winner and decision, winner, result margin, player of the match, umpires)
 - `deliveries.csv`: one row per ball bowled (batter, bowler, runs, extras, wickets, dismissal details), about 260,000 deliveries
